@@ -2,7 +2,6 @@ import React, {useState} from 'react';
 import './App.css';
 import CountryList from './classes/countryList'
 import {StatsDisplay} from "./classes/statistics";
-//
 function App() {
     const localPage:string|null=localStorage.getItem('page');
     if(!localPage){
