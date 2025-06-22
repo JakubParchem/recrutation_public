@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/recrutation_public/static/css/main.31d6cfe0.css",
+    "main.js": "/recrutation_public/static/js/main.512a7b5d.js",
+    "index.html": "/recrutation_public/index.html",
+    "main.512a7b5d.js.map": "/recrutation_public/static/js/main.512a7b5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.512a7b5d.js"
+  ]
+}
